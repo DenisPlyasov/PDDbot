@@ -181,7 +181,7 @@ if __name__ == '__main__':
     # app = ApplicationBuilder().token(TOKEN).build()
     # job_queue = app.job_queue
 
-    TOKEN = "8156068493:AAGHQPzuMaFMNf7XgdCyNHGLfiQYq9fGzFQ"
+    TOKEN = "6753534657:AAGZ84h_1V8MAVOy6lMQkRV4az5yc8rvvr0"
 
     app = Application.builder().token(TOKEN).build()
 
